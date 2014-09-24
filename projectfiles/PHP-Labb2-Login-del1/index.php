@@ -19,4 +19,7 @@ $basePage = new HTMLview();
 $basePage->presentPage($controller->doControl());
 
 
-
+//Lösen och avnändarnamn:
+//tester : mypass123
+//admin : password
+//Admin : passsword
